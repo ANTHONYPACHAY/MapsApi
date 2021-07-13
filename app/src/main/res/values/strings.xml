@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MapsApi</string>
+    <string name="loading_tittle">Cargando...</string>
+    <string name="loading_description">Espere mientras se carga la información</string>
+    <string name="visitar">clic en la tarjeta para visitar</string>
+</resources>
